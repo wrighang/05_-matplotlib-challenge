@@ -1,4 +1,4 @@
-# 05_-matplotlib-challenge: Pymaceuticals
+# 05_matplotlib-challenge
 
 * I reviewed my notes, PowerPoint slides, and the past PyCitySchools challenge to help guide me through the assignment.
 
