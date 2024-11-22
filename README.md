@@ -1,5 +1,7 @@
 # 05_matplotlib-challenge
 
+[Pymaceuticals.ipynb Completed Assignment](.Pymaceuticals/pymaceuticals.ipynb)
+
 ## Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -47,6 +49,10 @@ The executive team has tasked you with generating all of the tables and figures 
 - Calculate the correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimen
 
 -----------------------------------------------------------------
+
+##CODING_PROCESS
+
+Overall Approach
 
 * I reviewed my notes, PowerPoint slides, and the past PyCitySchools challenge to help guide me through the assignment.
 
