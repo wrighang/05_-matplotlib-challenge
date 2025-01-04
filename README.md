@@ -49,7 +49,7 @@ The executive team has tasked you with generating all of the tables and figures 
 ### Calculate Correlation and Regression
 - Calculate the correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimen
 
-==========================================================================================
+========================================================================
 ## CODING_PROCESS
 
 * I reviewed my notes, PowerPoint slides, and the past PyCitySchools challenge to help guide me through the assignment.
